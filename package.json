@@ -1,0 +1,15 @@
+{
+  "name": "splinter",
+  "version": "1.0.0",
+  "description": "Accessing the Splinterlands API for investment data",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Eastvold",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^15.1.2"
+  }
+}
